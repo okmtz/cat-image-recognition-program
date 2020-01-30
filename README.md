@@ -1,7 +1,7 @@
 cat-image-recognition-program  
 ---  
 ## caution
-because of its file size I can't push train_data.binaryfile and test_data.binaryfile, so even if you clone these it's not work.  
+because of its file size I can't push train_data.binaryfile and test_data.binaryfile, so even if you clone these, these would not work.  
 
 ## about files
 cat_CNN_model.json is model fiel. 
