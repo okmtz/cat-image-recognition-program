@@ -4,7 +4,7 @@ cat-image-recognition-program
 because of its file size I can't push train_data.binaryfile and test_data.binaryfile, so even if you clone these, these would not work.  
 
 ## about files
-cat_CNN_model.json is model fiel. 
+cat_CNN_model.json is model file. 
 and cat_CNN_result.h5 is weight file.
 cat_recognition_program.py is main program.
 
